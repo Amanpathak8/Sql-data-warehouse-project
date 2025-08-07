@@ -43,7 +43,7 @@ The final warehouse acts as a **single source of truth**, enabling efficient rep
 - **Load:** Batch inserts via stored procedures using a full load strategy (`TRUNCATE + INSERT`).
 
 ### 🧠 Advanced SQL
-- Window Functions, Common Table Expressions (CTEs), Subqueries, and Complex JOIN operations.
+- Window Functions, Subqueries, and Complex JOIN operations.
 
 ### 🗂️ Data Modeling
 - **Star Schema** implementation with Fact and Dimension tables designed for BI tools.
@@ -109,5 +109,4 @@ The **Gold Layer** features a classic **Star Schema** model, optimized for analy
 ## 📬 Contact
 
 **Aman Pathak**  
-📧 [Email](Amanpathak8802@gmail.com)  
-🌐 [GitHub](https://github.com/Amanpathak8)  
+Email Amanpathak8802@gmail.com  
