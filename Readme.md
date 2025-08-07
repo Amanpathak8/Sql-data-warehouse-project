@@ -60,7 +60,7 @@ The final warehouse acts as a **single source of truth**, enabling efficient rep
 
 This project follows the **Medallion Architecture**, dividing the data flow into three distinct logical layers for reliability, reusability, and auditability.
 
-![Data Architecture]()
+![Data Architecture](https://github.com/Amanpathak8/Sql-data-warehouse-project/blob/main/docs/data_architecture.png)
 
 ### 🥉 Bronze Layer (Raw Data)
 - **Purpose:** Initial landing zone for source data with no transformations.
@@ -108,9 +108,6 @@ The **Gold Layer** features a classic **Star Schema** model, optimized for analy
 
 ## 📬 Contact
 
-If you have any questions or would like to collaborate, feel free to connect:
-
 **Aman Pathak**  
-📧 [Email](mailto:your-email@example.com)  
+📧 [Email](Amanpathak8802@gmail.com)  
 🌐 [GitHub](https://github.com/Amanpathak8)  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
